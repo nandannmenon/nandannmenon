@@ -51,13 +51,5 @@ I'm a passionate learner with a strong interest in artificial intelligence and m
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandanMenon&show_icons=true&theme=gruvbox&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanMenon&layout=compact&theme=gruvbox" height="150" />
-</p>
-
----
 
 > “Learning never exhausts the mind.” — Leonardo da Vinci
