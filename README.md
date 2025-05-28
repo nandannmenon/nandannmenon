@@ -59,7 +59,5 @@ I'm a passionate learner and aspiring AI/ML Engineer. I thrive on building intel
 
 ---
 
-## 📫 Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or reach out if you're interested in collaborating or just chatting about AI/ML!
 ```
 
