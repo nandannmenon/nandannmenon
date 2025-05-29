@@ -44,13 +44,5 @@ Currently exploring:
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NandanMenon&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanMenon&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com) | Open to collaborations & AI/ML discussions!
