@@ -1,7 +1,7 @@
 # 👋hello world!
 
 🎓 Computer Science undergraduate at Shiv Nadar University, Delhi  
-🚀 Aspiring AI/ML Engineer | Problem Solver | Builder of Intelligent Systems
+🚀 Exploring AI/ML | Learning to solve problems with code | Interested in intelligent systems
 
 ---
 
@@ -50,6 +50,3 @@ I'm a passionate learner with a strong interest in artificial intelligence and m
 </p>
 
 ---
-
-
-> “Learning never exhausts the mind.” — Leonardo da Vinci
