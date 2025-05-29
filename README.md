@@ -1,52 +1,56 @@
-# 👋hello world!
+# 👋 Hello World
 
-🎓 Computer Science undergraduate at Shiv Nadar University, Delhi  
-🚀 Exploring AI/ML | Learning to solve problems with code | Interested in intelligent systems
+🎓 **CS Undergrad @ Shiv Nadar University, Delhi**  
+🚀 **Aspiring AI/ML Engineer | Building Stuff | Figuring It Out One Model at a Time **
 
 ---
 
 ## 🌟 About Me
-
-I'm a passionate learner with a strong interest in artificial intelligence and machine learning. I enjoy building intelligent systems and constantly seek opportunities to learn and grow through hands-on experience. I’m particularly excited about using AI to solve real-world problems, and I’m continuously expanding my skills through personal projects, online courses, and experimentation.
-
-**Currently exploring:**
-- Machine Learning & Deep Learning  
-- Computer Vision & Natural Language Processing  
+Passionate about building intelligent systems and solving real-world problems through AI. 
+Currently exploring:
+- ML & Deep Learning  
+- CV & NLP  
 - Model Optimization & Deployment  
-- Generative AI & Reinforcement Learning  
+- RL & Generative Models
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Skills
 
-### Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+### Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-### Libraries & Frameworks  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### Databases & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AJAX-000000?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+### Databases & Web
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NandanMenon&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanMenon&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com) | Open to collaborations & AI/ML discussions!
