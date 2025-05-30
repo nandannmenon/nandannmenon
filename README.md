@@ -1,7 +1,7 @@
 # Hello World!
 
 **Computer Science undergraduate at Shiv Nadar University, Delhi**  
-**Aspiring AI/ML Engineer | Problem Solver | Builder of Intelligent Systems**
+**Exploring AI/ML | Learning to solve problems with code | Interested in intelligent systems**
 
 ---
 
